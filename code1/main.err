@@ -1,0 +1,4 @@
+>>> Warning 216 "main.c" Line 84(1,2): Interrupts disabled during call to prevent re-entrancy:  (@ITOF)
+      Memory usage:   ROM=18%      RAM=8% - 20%
+      0 Errors,  1 Warnings.
+Build Successful.
